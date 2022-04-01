@@ -1,5 +1,5 @@
 # vtvshop
-
+## Chạy serve ở BackendJava trước: https://github.com/hoangvtv/EcommerceBackEnd
 ## Project setup
 ```
 npm install
